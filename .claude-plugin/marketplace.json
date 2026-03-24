@@ -1,0 +1,21 @@
+{
+  "name": "claude-obsidian-plugin",
+  "owner": {
+    "name": "nothinking",
+    "email": "nothinking@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "obsidian",
+      "description": "Obsidian vault integration for Claude Code — save, organize, search, and manage notes from your conversations",
+      "version": "1.0.0",
+      "author": {
+        "name": "nothinking"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/nothinking/claude-obsidian-plugin",
+      "tags": ["obsidian", "notes", "vault", "knowledge-management"]
+    }
+  ]
+}
