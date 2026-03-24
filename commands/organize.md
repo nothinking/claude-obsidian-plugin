@@ -1,6 +1,6 @@
 ---
 description: Obsidian vault의 구조와 품질을 점검한다. "vault 정리해", "노트 정리", "고아 노트 찾아", "중복 노트 확인", "태그 정리" 같은 요청에 사용.
-argument-hint: [inbox | archive | tags | orphans | duplicates]
+argument-hint: "inbox | archive | tags | orphans | duplicates"
 allowed-tools: Read, Edit, Bash, Grep, Glob
 ---
 

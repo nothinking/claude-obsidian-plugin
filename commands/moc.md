@@ -1,6 +1,6 @@
 ---
 description: Obsidian vault의 Map of Content(MOC)를 생성하거나 갱신한다. "MOC 만들어", "kafka MOC", "MOC 업데이트" 같은 요청에 사용.
-argument-hint: [주제명 | --update-all | --suggest]
+argument-hint: "<주제명> | --update-all | --suggest"
 allowed-tools: Read, Write, Edit, Bash, Grep, Glob
 ---
 

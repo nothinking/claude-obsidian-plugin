@@ -1,6 +1,6 @@
 ---
 description: 현재 작업 중인 내용을 Obsidian vault에 노트로 저장한다. "이거 정리해둬", "노트로 저장해", "vault에 저장" 같은 요청에 사용.
-argument-hint: [주제 또는 키워드]
+argument-hint: "<주제 또는 키워드>"
 allowed-tools: Read, Write, Edit, Bash, Grep, Glob
 ---
 

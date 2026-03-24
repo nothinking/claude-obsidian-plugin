@@ -1,6 +1,6 @@
 ---
 description: Obsidian vault에서 관련 노트를 검색하여 현재 작업 컨텍스트에 가져온다. "저번에 어떻게 했더라", "vault에서 찾아줘", "관련 노트 있어?" 같은 요청에 사용.
-argument-hint: [검색 키워드] [--reindex]
+argument-hint: "[검색 키워드] [--reindex]"
 allowed-tools: Read, Bash, Grep, Glob
 ---
 
