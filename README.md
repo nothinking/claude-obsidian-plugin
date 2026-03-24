@@ -5,7 +5,11 @@ Save, search, organize, and manage your Obsidian vault directly from Claude Code
 ## Install
 
 ```bash
-claude plugin add obsidian --url https://github.com/seango/claude-obsidian-plugin
+# 1. Register the marketplace
+claude plugin marketplace add https://github.com/nothinking/claude-obsidian-plugin
+
+# 2. Install the plugin
+claude plugin install obsidian
 ```
 
 ## Setup
